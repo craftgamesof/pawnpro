@@ -3,6 +3,10 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 
 ---
 
+## [2.3.1] - 17/08/2025 _(pré-release)_
+### Corrigido
+- Bug em que toda vez que é feita a compilação, uma nova saída `Pawn Build` é gerada.
+
 ## [2.3.0] - 15/08/2025 _(pré-release)_
 ### Adicionado
 - Suporte à sintaxe para arquivos `.cfg` compatível com `=` opcional, valores com e sem aspas e suporte a espaços, incluindo linhas sem `=`.
